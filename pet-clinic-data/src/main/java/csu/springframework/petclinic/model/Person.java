@@ -1,4 +1,4 @@
-package csu.yjf.springframework.springpetclinic.model;
+package csu.springframework.petclinic.model;
 
 public class Person {
     private String firstName;
