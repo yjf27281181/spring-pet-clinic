@@ -1,4 +1,4 @@
 package csu.springframework.petclinic.model;
 
-public class Vet {
+public class Vet extends Person {
 }
